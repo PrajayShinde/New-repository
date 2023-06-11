@@ -7,7 +7,7 @@ public class TestClass {
 		int a=10;
 		int b=5;
 		int c= a+b;
-		System.out.print(c);
+		System.out.println(c);
 		
 		a=c*10;
 		System.out.println(a);
