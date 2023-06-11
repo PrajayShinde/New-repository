@@ -9,6 +9,8 @@ public class TestClass {
 		int c= a+b;
 		System.out.print(c);
 		
+		a=c*10;
+		System.out.println(a);
 
 	}
 
