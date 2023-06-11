@@ -11,7 +11,9 @@ public class TestClass {
 		
 		a=c*10;
 		System.out.println(a);
-
+		
+		b=c/10;
+                System.out.println(b);
 	}
 
 }
