@@ -14,9 +14,9 @@ public class TestClass {
 		
 		b=c/10;
                 System.out.println(b);
-		
-		b=c/10;
-                System.out.println(b);
+                
+        b=c-10;
+                System.out.println(b);         
 	}
 
 }
